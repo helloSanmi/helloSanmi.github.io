@@ -4853,7 +4853,7 @@ h2 {
 }
 .features li {
     position: relative;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 .features li:before {
     font-family: FontAwesome;
