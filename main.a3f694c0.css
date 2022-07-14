@@ -5006,3 +5006,9 @@ textarea {
 }
 
 /* #sourceMappingURL=main.41beeca9.map */
+
+/* Additional css */
+.cus-pad {
+    padding: 0;
+    line-height: 1.5rem;
+}
